@@ -1,4 +1,4 @@
-Programacion_Basica
+Programacion Basica
 ===================
 
 Ejemplos de programación basica en Ruby
