@@ -1,16 +1,16 @@
 # Definicion de una Clase
 # Nombre de la Clase
 class HolaMundo
-  
+
   # Constructor
   def initialize
   end
-  
+
   # Definición de un Método
   def get_message
     puts 'Hola Mundo'
-  end  
- 	
+  end
+
 end
 
 # Instancia de un Objeto a partir de la clase HolaMundo

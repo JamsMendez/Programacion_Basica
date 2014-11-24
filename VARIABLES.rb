@@ -12,7 +12,7 @@ var_numeric_decimal = 45.67
 puts var_string
 puts var_numeric_integer
 puts var_numeric_negative
-puts var_numeric_decimal 
+puts var_numeric_decimal
 
 # Conversión de Tipos
 # to_s Convertir a String

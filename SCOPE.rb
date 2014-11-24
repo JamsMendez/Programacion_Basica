@@ -6,6 +6,7 @@
 $var_global = "Variable Global"
 
 class Variable
+
   def initialize
     @var_instance = "Variable de Instancia"
   end
